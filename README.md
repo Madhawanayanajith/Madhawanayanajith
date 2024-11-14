@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/madhawa nayanajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhawa nayanajith" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/madhawa-nayanajith-27aa26214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/madhawa-nayanajith-27aa26214" height="30" width="40" /></a>
 <a href="https://fb.com/madhawa nayanajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="madhawa nayanajith" height="30" width="40" /></a>
 </p>
 
@@ -21,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhawanayanajith&show_icons=true&locale=en" alt="madhawanayanajith" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhawanayanajith&" alt="madhawanayanajith" /></p>
+
